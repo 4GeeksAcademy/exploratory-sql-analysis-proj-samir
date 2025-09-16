@@ -2,6 +2,7 @@
 
 -- ⚠️ IMPORTANT: This SQL file may crash due to two common issues: comments and missing semicolons.
 
+SELECT * FROM observations LIMIT 10;
 
 -- -----------------------------------------------
 -- queries.sql
