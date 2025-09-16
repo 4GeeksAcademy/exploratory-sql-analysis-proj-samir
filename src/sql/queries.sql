@@ -15,14 +15,14 @@
 -- directly below the corresponding instruction
 -- -----------------------------------------------
 
-SELECT * FROM regions;
-SELECT * FROM species;
-SELECT * FROM climate;
-SELECT * FROM observations;
+--SELECT * FROM regions;
+--SELECT * FROM species;
+--SELECT * FROM climate;
+--SELECT * FROM observations;
 
 
 -- MISSION 1
--- Your query here;
+SELECT * FROM observations LIMIT 10;
 
 -- MISSION 2
 -- Your query here;
