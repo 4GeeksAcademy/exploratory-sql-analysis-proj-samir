@@ -2,7 +2,6 @@
 
 -- ⚠️ IMPORTANT: This SQL file may crash due to two common issues: comments and missing semicolons.
 
-SELECT * FROM observations LIMIT 10;
 
 -- -----------------------------------------------
 -- queries.sql
@@ -17,6 +16,7 @@ SELECT * FROM observations LIMIT 10;
 
 
 -- MISSION 1
+
 SELECT * FROM observations LIMIT 10;
 
 -- MISSION 2
