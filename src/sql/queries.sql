@@ -2,12 +2,6 @@
 
 -- ⚠️ IMPORTANT: This SQL file may crash due to two common issues: comments and missing semicolons.
 
--- ✅ Suggestions:
--- 1) Always end each SQL query with a semicolon `;`
--- 2) Ensure comments are well-formed:
---    - Use `--` for single-line comments only
---    - Avoid inline comments after queries
---    - Do not use `/* */` multi-line comments, as they may break execution
 
 -- -----------------------------------------------
 -- queries.sql
